@@ -1,94 +1,73 @@
-# Hi, I'm Loke 👋
-
-Fullstack engineer from Sweden. I build fast, minimal web starters so you don't have to start from scratch.
-
-- 🌐 [loke.dev](https://www.loke.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lokecarlsson)
-- 🐦 [Twitter / X](https://twitter.com/loke_dev)
-- ✉️  [hi@loke.dev](mailto:hi@loke.dev)
-
----
-
-## 🚀 Templates
-
-Production-ready starters — click any card to use it as a template.
-
-### Landing Pages
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/loke-dev/astro-landing-page-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=astro-landing-page-template&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/loke-dev/sveltekit-landing-page-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=sveltekit-landing-page-template&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Blogs
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/loke-dev/sveltekit-mdsvex-blog-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=sveltekit-mdsvex-blog-template&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/loke-dev/nextjs-mdx-blog-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=nextjs-mdx-blog-template&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/loke-dev/remix-mdx-blog-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=remix-mdx-blog-template&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
-
-### Starters & Portfolios
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/loke-dev/vue-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=vue-portfolio&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/loke-dev/gridsome-starter-resume">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=gridsome-starter-resume&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/loke-dev/gridsome-starter-bootstrap">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=gridsome-starter-bootstrap&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/loke-dev/gridsome-starter-docs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loke-dev&repo=gridsome-starter-docs&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub
+<h1>Loke Carlsson</h1>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=loke-dev&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide=issues" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loke-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" />
+  Fullstack engineer. I build minimal, production-ready starters for the modern web.
+</p>
+
+<p>
+  <sub>
+    <a href="https://loke.dev">loke.dev</a>
+    &nbsp;·&nbsp;
+    <a href="https://x.com/loke_dev">x</a>
+    &nbsp;·&nbsp;
+    <a href="https://linkedin.com/in/lokecarlsson">linkedin</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:hi@loke.dev">hi@loke.dev</a>
+  </sub>
+</p>
+
+<br />
+
+<table>
+  <tr><td colspan="2"><sub><b>&nbsp;LANDING&nbsp;&nbsp;·&nbsp;&nbsp;</b></sub></td></tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/astro-landing-page-template"><b>astro-landing-page-template</b></a><br/><sub>Minimal, production-ready landing page.</sub></td>
+    <td align="right"><sub>Astro&nbsp;·&nbsp;Tailwind</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/sveltekit-landing-page-template"><b>sveltekit-landing-page-template</b></a><br/><sub>Production-ready landing page.</sub></td>
+    <td align="right"><sub>SvelteKit&nbsp;·&nbsp;Tailwind</sub></td>
+  </tr>
+
+  <tr><td colspan="2">&nbsp;</td></tr>
+  <tr><td colspan="2"><sub><b>&nbsp;BLOG&nbsp;&nbsp;·&nbsp;&nbsp;</b></sub></td></tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/sveltekit-mdsvex-blog-template"><b>sveltekit-mdsvex-blog-template</b></a><br/><sub>MDsveX blog starter.</sub></td>
+    <td align="right"><sub>SvelteKit&nbsp;·&nbsp;MDsveX</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/nextjs-mdx-blog-template"><b>nextjs-mdx-blog-template</b></a><br/><sub>MDX blog starter.</sub></td>
+    <td align="right"><sub>Next.js&nbsp;·&nbsp;MDX</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/remix-mdx-blog-template"><b>remix-mdx-blog-template</b></a><br/><sub>MDX blog starter on Vite.</sub></td>
+    <td align="right"><sub>Remix&nbsp;·&nbsp;MDX</sub></td>
+  </tr>
+
+  <tr><td colspan="2">&nbsp;</td></tr>
+  <tr><td colspan="2"><sub><b>&nbsp;PORTFOLIO&nbsp;·&nbsp;DOCS&nbsp;·&nbsp;RESUME&nbsp;&nbsp;·&nbsp;&nbsp;</b></sub></td></tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/vue-portfolio"><b>vue-portfolio</b></a><br/><sub>Personal portfolio.</sub></td>
+    <td align="right"><sub>Vue&nbsp;·&nbsp;Bulma</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/gridsome-starter-resume"><b>gridsome-starter-resume</b></a><br/><sub>Single-page resume.</sub></td>
+    <td align="right"><sub>Gridsome&nbsp;·&nbsp;Bootstrap</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/gridsome-starter-docs"><b>gridsome-starter-docs</b></a><br/><sub>Documentation site.</sub></td>
+    <td align="right"><sub>Gridsome</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/loke-dev/gridsome-starter-bootstrap"><b>gridsome-starter-bootstrap</b></a><br/><sub>General-purpose starter.</sub></td>
+    <td align="right"><sub>Gridsome&nbsp;·&nbsp;Bootstrap&nbsp;Vue</sub></td>
+  </tr>
+</table>
+
+<br />
+
+<p>
+  <sub>
+    Use any of these as a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template">template repo</a> — green <b>Use this template</b> button on each.
+  </sub>
 </p>
