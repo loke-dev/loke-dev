@@ -1,12 +1,10 @@
-# Hi, I'm Loke 👋
+# Hi, I'm Loke! 👋
 
-I build thoughtful things for the web.
+| Focus | Status |
+| --- | --- |
+| Learning | Always |
 
-`#0969DA`
-
-## About
-
-A few lines about what you care about, what you are learning, and the kind of work you enjoy doing.
+I build thoughtful things for the web. Share what you care about, what you are learning, and the work you enjoy.
 
 ## Selected work
 
@@ -19,5 +17,9 @@ A short sentence explaining why it is worth a look.
 - TypeScript
 - React
 - GitHub
+
+```ts
+const building = true
+```
 
 <!-- Profile crafted with GitDash Studio: https://gitdash.dev/studio -->
