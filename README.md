@@ -1,36 +1,45 @@
-# Hi, I’m Loke 👋
-
-<p align="left">
-  <img alt="building" src="https://img.shields.io/badge/building-in%20public-22c55e?style=flat-square" />
-  <img alt="open to" src="https://img.shields.io/badge/open%20to-collaborate-0ea5e9?style=flat-square" />
-  <img alt="ask me about" src="https://img.shields.io/badge/ask%20me%20about-the%20web-f97316?style=flat-square" />
+<p align="center">
+  <img src="assets/profile/85d53dfa-f31b-475f-9660-d5b13dfbd54d.png" alt="Loke at work" width="960" />
 </p>
 
-I turn curious questions into well-crafted products. I care about the details that make software feel clear, useful, and alive.
+<div align="center">
 
-| Now | Usually |
+# Hello, I’m Loke.
+
+</div>
+
+<div align="center">
+
+I build ideas with personality — from a rough sketch to something people can use, share, and remember.
+
+</div>
+
+<p align="center">
+  <img alt="making" src="https://img.shields.io/badge/making-digital%20things-ec4899?style=flat-square" />
+  <img alt="always" src="https://img.shields.io/badge/always-curious-8b5cf6?style=flat-square" />
+</p>
+
+> The best projects leave a little room for surprise.
+
+|  |  |
 | --- | --- |
-| Designing and shipping | TypeScript, React, and GitHub |
-| Learning in public | Thoughtful product systems |
+| **I care about**  Useful ideas, strong visual systems, and the details people feel. | **Outside the editor**  Collecting references, learning in public, and following a good tangent. |
 
-## Selected work
+## Things I’m exploring
 
-### [A project I’m proud of](https://github.com/)
+### [A playful side project](https://github.com/)
 
-What it does, who it helps, and the small idea that made it worth building.
+A small idea with a clear point of view and just enough ambition.
 
-### [An experiment in progress](https://github.com/)
+### [A favourite collaboration](https://github.com/)
 
-A work-in-progress where I’m testing an idea and sharing what I learn.
+What we made together and the role I played in shaping it.
 
-## Currently
+<details>
+<summary>A few more things about me</summary>
 
-- [ ] Shipping something useful
-- [ ] Learning from the people using it
-- [x] Making room for the next good idea
+Use this space for the notes, links, or personal details that do not need to lead the page — but make it feel more like yours.
 
-> Make it work, make it right, make it fast.
->
-> — Kent Beck
+</details>
 
 <!-- Profile crafted with GitDash Studio: https://gitdash.dev/studio -->
