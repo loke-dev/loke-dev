@@ -2,6 +2,8 @@
 
 I build thoughtful things for the web.
 
+`#0969DA`
+
 ## About
 
 A few lines about what you care about, what you are learning, and the kind of work you enjoy doing.
