@@ -2,10 +2,6 @@
   <img src="./assets/profile/workshop-signal/loke-x-header.png" alt="Loke, independent developer" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/profile/workshop-signal/loke-profile-portrait.png" alt="Loke" width="140" />
-</p>
-
 <h1 align="center">Loke</h1>
 
 <p align="center">
