@@ -98,13 +98,7 @@
 </p>
 
 <p align="center">
-  <sub>
-    <a href="https://github.com/loke-dev/sveltekit-mdsvex-blog-template">SvelteKit MDsveX Blog</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/loke-dev/awesome-gridsome">Awesome Gridsome</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/loke-dev/astro-landing-page-template">Astro Landing Page</a>
-  </sub>
+  <img src="./assets/profile/currently.svg" alt="04 — Currently: Cloudflare developer tools, deployment workflows, and TypeScript open source" width="100%" />
 </p>
 
 <br />
