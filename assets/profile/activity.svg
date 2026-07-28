@@ -1,0 +1,38 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">03 — Activity</title>
+  <desc id="desc">A minimal violet activity graph with connected points</desc>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="12" x2="1170" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#100C29"/><stop offset=".55" stop-color="#271351"/><stop offset="1" stop-color="#151034"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="150" x2="1120" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9A8D4"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#C4B5FD" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="190" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="190" fill="url(#bg)"/>
+    <rect width="1200" height="190" fill="url(#grid)"/>
+    <text x="40" y="40" fill="#F9A8D4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="3">03 / ACTIVITY</text>
+    <path d="M80 143L184 119L274 132L374 76L470 105L568 62L668 91L764 48L864 82L964 55L1120 92" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".72"/>
+    <path d="M80 143L184 119L274 132L374 76L470 105L568 62L668 91L764 48L864 82L964 55L1120 92V190H80V143Z" fill="url(#line)" fill-opacity=".07"/>
+    <g fill="#FAF5FF" filter="url(#soft)">
+      <circle cx="80" cy="143" r="3"/><circle cx="184" cy="119" r="3"/><circle cx="274" cy="132" r="3"/>
+      <circle cx="374" cy="76" r="4"/><circle cx="470" cy="105" r="3"/><circle cx="568" cy="62" r="4"/>
+      <circle cx="668" cy="91" r="3"/><circle cx="764" cy="48" r="4"/><circle cx="864" cy="82" r="3"/>
+      <circle cx="964" cy="55" r="4"/><circle cx="1120" cy="92" r="3"/>
+    </g>
+    <g fill="#C4B5FD" opacity=".4">
+      <rect x="80" y="164" width="70" height="2" rx="1"/><rect x="162" y="164" width="42" height="2" rx="1"/>
+      <rect x="216" y="164" width="92" height="2" rx="1"/><rect x="320" y="164" width="54" height="2" rx="1"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="188" rx="23" stroke="url(#line)" stroke-opacity=".2" stroke-width="2"/>
+</svg>

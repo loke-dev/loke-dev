@@ -1,0 +1,29 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Loke — Sweden</title>
+  <desc id="desc">A minimal violet mountain footer</desc>
+  <defs>
+    <linearGradient id="bg" x1="20" y1="10" x2="1180" y2="145" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#100C29"/><stop offset=".52" stop-color="#281452"/><stop offset="1" stop-color="#151034"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="95" x2="1120" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9A8D4"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="150" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="150" fill="url(#bg)"/>
+    <path d="M0 124L112 80L206 111L318 55L426 116L538 84L650 121L766 70L876 113L988 76L1098 108L1200 68V150H0V124Z" fill="#171033"/>
+    <path d="M0 124L112 80L206 111L318 55L426 116L538 84L650 121L766 70L876 113L988 76L1098 108L1200 68" stroke="url(#line)" stroke-opacity=".28"/>
+    <g transform="translate(42 44)" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft)">
+      <path d="M0 0H30M0 0V30M0 30H16"/>
+      <path d="M28 30H44M44 30V14M44 14H31M44 14L54 4"/>
+    </g>
+    <text x="1148" y="48" text-anchor="end" fill="#FAF5FF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700" letter-spacing="4">LOKE</text>
+    <text x="1148" y="73" text-anchor="end" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="3">SWEDEN / LOKE.DEV</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="148" rx="23" stroke="url(#line)" stroke-opacity=".2" stroke-width="2"/>
+</svg>

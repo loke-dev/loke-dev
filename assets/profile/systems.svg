@@ -29,6 +29,7 @@
     <rect width="1200" height="260" fill="url(#bg)"/>
     <rect width="1200" height="260" fill="url(#grid)"/>
     <rect width="1200" height="260" fill="url(#glow)"/>
+    <text x="40" y="42" fill="#F9A8D4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="3">01 / SELECTED WORK</text>
 
     <path d="M275 130H410M790 130H925M600 74V42M600 218V186" stroke="url(#line)" stroke-opacity=".55" stroke-width="2"/>
     <path d="M373 130C430 130 425 74 482 74M827 130C770 130 775 186 718 186" stroke="url(#line)" stroke-opacity=".32" stroke-width="2" stroke-dasharray="5 8"/>

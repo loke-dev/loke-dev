@@ -20,6 +20,7 @@
   <g clip-path="url(#frame)">
     <rect width="1200" height="220" fill="url(#bg)"/>
     <rect width="1200" height="220" fill="url(#grid)"/>
+    <text x="40" y="40" fill="#F9A8D4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="3">02 / FOCUS</text>
     <path d="M0 181L128 116L245 160L374 82L502 157L622 103L754 168L886 77L1012 151L1121 99L1200 137V220H0V181Z" fill="#171033" fill-opacity=".88"/>
     <path d="M0 181L128 116L245 160L374 82L502 157L622 103L754 168L886 77L1012 151L1121 99L1200 137" stroke="url(#line)" stroke-opacity=".32"/>
 
