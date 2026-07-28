@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=loke-dev&theme=midnight&show_icons=true" alt="Loke's GitHub statistics" width="720" />
+  <img src="https://ghstats.dev/api/card?username=loke-dev&theme=dracula&show_icons=true" alt="Loke's GitHub statistics" width="720" />
 </p>
 
 <p align="center">
