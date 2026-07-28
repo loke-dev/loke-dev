@@ -1,0 +1,49 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technical landscape</title>
+  <desc id="desc">A violet landscape with abstract symbols for cloud tooling, web interfaces, and open source</desc>
+  <defs>
+    <linearGradient id="bg" x1="44" y1="12" x2="1154" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#110D2B"/><stop offset=".5" stop-color="#2C1559"/><stop offset="1" stop-color="#151034"/>
+    </linearGradient>
+    <linearGradient id="line" x1="90" y1="54" x2="1100" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9A8D4"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#C4B5FD" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="220" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="220" fill="url(#bg)"/>
+    <rect width="1200" height="220" fill="url(#grid)"/>
+    <path d="M0 181L128 116L245 160L374 82L502 157L622 103L754 168L886 77L1012 151L1121 99L1200 137V220H0V181Z" fill="#171033" fill-opacity=".88"/>
+    <path d="M0 181L128 116L245 160L374 82L502 157L622 103L754 168L886 77L1012 151L1121 99L1200 137" stroke="url(#line)" stroke-opacity=".32"/>
+
+    <g transform="translate(156 48)" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft)">
+      <path d="M20 64H72C91 64 96 38 79 30C74 9 42 4 31 24C10 20 0 46 20 64Z"/>
+      <path d="M35 78H62M48 64V78"/>
+    </g>
+
+    <g transform="translate(554 46)" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft)">
+      <rect x="2" y="2" width="92" height="66" rx="8"/>
+      <path d="M2 20H94M20 36L34 46L20 56M44 56H67"/>
+      <path d="M34 82H62M48 68V82"/>
+    </g>
+
+    <g transform="translate(952 48)" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft)">
+      <circle cx="48" cy="42" r="38"/>
+      <circle cx="48" cy="42" r="9"/>
+      <path d="M48 4V33M48 51V80M10 42H39M57 42H86M21 15L41 35M55 49L75 69M75 15L55 35M41 49L21 69"/>
+    </g>
+
+    <g fill="#FAF5FF" opacity=".75">
+      <circle cx="98" cy="52" r="2"/><circle cx="326" cy="37" r="1.5"/><circle cx="473" cy="63" r="2"/>
+      <circle cx="726" cy="34" r="1.5"/><circle cx="840" cy="55" r="2"/><circle cx="1110" cy="46" r="1.5"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="218" rx="23" stroke="url(#line)" stroke-opacity=".2" stroke-width="2"/>
+</svg>

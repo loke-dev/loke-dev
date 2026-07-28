@@ -1,0 +1,67 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Connected systems</title>
+  <desc id="desc">Abstract terminal windows and connected nodes in violet and indigo</desc>
+  <defs>
+    <linearGradient id="bg" x1="32" y1="20" x2="1168" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#100C29"/>
+      <stop offset=".52" stop-color="#24124F"/>
+      <stop offset="1" stop-color="#151034"/>
+    </linearGradient>
+    <linearGradient id="line" x1="150" y1="40" x2="1040" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9A8D4"/>
+      <stop offset=".5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(602 125) rotate(90) scale(195 510)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#C4B5FD" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="260" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <rect width="1200" height="260" fill="url(#grid)"/>
+    <rect width="1200" height="260" fill="url(#glow)"/>
+
+    <path d="M275 130H410M790 130H925M600 74V42M600 218V186" stroke="url(#line)" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M373 130C430 130 425 74 482 74M827 130C770 130 775 186 718 186" stroke="url(#line)" stroke-opacity=".32" stroke-width="2" stroke-dasharray="5 8"/>
+
+    <g transform="translate(78 70)">
+      <rect width="198" height="120" rx="14" fill="#171033" stroke="#C4B5FD" stroke-opacity=".28"/>
+      <circle cx="24" cy="22" r="4" fill="#F9A8D4"/>
+      <circle cx="39" cy="22" r="4" fill="#A78BFA"/>
+      <circle cx="54" cy="22" r="4" fill="#67E8F9"/>
+      <path d="M24 56L42 70L24 84M58 86H96" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft)"/>
+    </g>
+
+    <g transform="translate(410 42)">
+      <rect width="380" height="176" rx="18" fill="#171033" stroke="#A78BFA" stroke-opacity=".4"/>
+      <rect x="1" y="1" width="378" height="34" rx="17" fill="#2A1955"/>
+      <circle cx="22" cy="18" r="4" fill="#F9A8D4"/>
+      <circle cx="38" cy="18" r="4" fill="#A78BFA"/>
+      <path d="M44 74H159M44 98H286M44 122H232M44 146H318" stroke="#DDD6FE" stroke-opacity=".32" stroke-width="8" stroke-linecap="round"/>
+      <path d="M44 74H94M44 98H132M44 122H112M44 146H168" stroke="url(#line)" stroke-width="8" stroke-linecap="round" filter="url(#soft)"/>
+    </g>
+
+    <g transform="translate(925 70)">
+      <rect width="198" height="120" rx="14" fill="#171033" stroke="#C4B5FD" stroke-opacity=".28"/>
+      <circle cx="99" cy="60" r="35" stroke="url(#line)" stroke-opacity=".4"/>
+      <path d="M64 60H134M99 25C85 40 85 80 99 95M99 25C113 40 113 80 99 95" stroke="url(#line)" stroke-width="2" filter="url(#soft)"/>
+      <circle cx="99" cy="60" r="5" fill="#F9A8D4" filter="url(#soft)"/>
+    </g>
+
+    <g fill="#FAF5FF" filter="url(#soft)">
+      <circle cx="275" cy="130" r="4"/><circle cx="410" cy="130" r="4"/>
+      <circle cx="790" cy="130" r="4"/><circle cx="925" cy="130" r="4"/>
+      <circle cx="600" cy="42" r="4"/><circle cx="600" cy="218" r="4"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="23" stroke="url(#line)" stroke-opacity=".2" stroke-width="2"/>
+</svg>
