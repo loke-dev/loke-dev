@@ -18,6 +18,10 @@
 
 ## What I make
 
+<p align="center">
+  <img src="./assets/profile/workshop-signal/workbench.svg" alt="Websites, systems, and AI work" width="100%" />
+</p>
+
 | | |
 | --- | --- |
 | [**Workers Doctor**](https://workers-doctor.loke.dev) | Inspect and safely run multi-Worker Cloudflare projects. |
@@ -33,6 +37,10 @@
 - Useful AI features with enough guardrails to trust them.
 - CMS and publishing setups that are nice for actual humans to use.
 - TypeScript, Cloudflare Workers, Astro, Svelte, React, Vitest, and good deployment checks.
+
+<p align="center">
+  <img src="./assets/profile/workshop-signal/build-loop.svg" alt="Idea, build, test, ship, learn" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=loke-dev&theme=ayu&show_icons=true" alt="Loke's GitHub statistics" width="720" />

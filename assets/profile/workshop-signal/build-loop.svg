@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Loke.dev build loop</title>
+  <desc id="desc">A Workshop Signal build loop from idea to learning.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#121212" stroke-opacity=".11"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="230" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="230" fill="#f4f0e8"/>
+    <rect width="1200" height="230" fill="url(#grid)"/>
+    <text x="42" y="44" fill="#ff5a1f" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="3">02 / BUILD LOOP</text>
+    <path d="M129 126C129 83 167 65 223 65H906C963 65 1000 93 1000 126C1000 169 963 193 906 193H223C167 193 129 169 129 126Z" fill="none" stroke="#ff5a1f" stroke-width="9"/>
+    <path d="M1000 126l-19-14v28l19-14Z" fill="#ff5a1f"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2">
+      <circle cx="230" cy="65" r="14" fill="#ff5a1f"/><text x="259" y="95" fill="#121212">IDEA</text>
+      <circle cx="475" cy="65" r="14" fill="#ff5a1f"/><text x="504" y="95" fill="#121212">BUILD</text>
+      <circle cx="718" cy="65" r="14" fill="#ff5a1f"/><text x="747" y="95" fill="#121212">TEST</text>
+      <circle cx="903" cy="193" r="14" fill="#ff5a1f"/><text x="932" y="169" fill="#121212">SHIP</text>
+      <circle cx="576" cy="193" r="14" fill="#ff5a1f"/><text x="605" y="169" fill="#121212">LEARN</text>
+    </g>
+    <path d="M304 128H432L452 103L476 148L500 117H636" fill="none" stroke="#6d90ac" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    <circle cx="649" cy="128" r="10" fill="#121212"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="228" rx="21" fill="none" stroke="#121212" stroke-opacity=".22" stroke-width="2"/>
+</svg>
