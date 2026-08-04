@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile/hero.svg" alt="Loke, developer tools, cloud platforms, and web interfaces" width="100%" />
+  <img src="./assets/profile/workshop-signal/workbench.svg" alt="Loke.dev workbench for websites, systems, and AI work" width="100%" />
 </p>
 
 <p align="center">
@@ -18,14 +18,10 @@ I’m an independent developer in Sweden. I make websites, tools, and software f
 
 My usual mix is product UI, TypeScript, cloud platforms, CMS work, AI features, and the checks that keep a release from becoming a surprise.
 
-<p align="center">
-  <img src="./assets/profile/currently.svg" alt="Currently building Cloudflare developer tools, testing deployment workflows, and maintaining TypeScript open source" width="100%" />
-</p>
-
 ## Selected work
 
 <p align="center">
-  <img src="./assets/profile/systems.svg" alt="Selected work across developer tools, testing, and web products" width="100%" />
+  <img src="./assets/profile/workshop-signal/build-loop.svg" alt="Loke's loop from idea to build, test, ship, and learn" width="100%" />
 </p>
 
 | Project | What it does |
@@ -38,10 +34,6 @@ My usual mix is product UI, TypeScript, cloud platforms, CMS work, AI features, 
 | [**Shuffleworks**](https://shuffle.loke.dev) | Small random-selection tools for teams, games, and chance. |
 
 ## How I work
-
-<p align="center">
-  <img src="./assets/profile/toolkit.svg" alt="Focus areas: web products, cloud systems, open source, and AI workflows" width="100%" />
-</p>
 
 - Start with the actual problem, not the framework.
 - Keep the first version small enough to finish.
@@ -57,16 +49,8 @@ I write about the same kind of work on [loke.dev](https://loke.dev), with practi
 - Fast websites with content that is easy to update.
 - Open source packages that do one job well.
 
-<p align="center">
-  <img src="./assets/profile/activity.svg" alt="A steady stream of building, testing, and shipping" width="100%" />
-</p>
-
 ## Find me elsewhere
 
 - [loke.dev](https://loke.dev) for projects, writing, tools, and services.
 - [GitHub](https://github.com/loke-dev) for code and experiments.
 - [X](https://x.com/loke_dev) for shorter thoughts and work in progress.
-
-<p align="center">
-  <img src="./assets/profile/footer.svg" alt="Loke in Sweden" width="100%" />
-</p>
