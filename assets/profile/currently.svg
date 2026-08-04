@@ -1,5 +1,5 @@
 <svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">04 — Currently</title>
+  <title id="title">04 / Currently</title>
   <desc id="desc">Building Cloudflare developer tools, testing deployment workflows, and maintaining TypeScript open source</desc>
   <defs>
     <linearGradient id="bg" x1="24" y1="12" x2="1176" y2="204" gradientUnits="userSpaceOnUse">
